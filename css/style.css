@@ -44,7 +44,7 @@ header nav a:hover{
   font-size: 16px;
   background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/slipknot.jpg');
 
-  height: 490px;
+  height: 600px;
   background-size: cover;
 
   display: flex;
@@ -89,11 +89,12 @@ header nav a:hover{
 .container{
   margin-left: 20px;
 }
-
 .show-principal .container{
   width: 70%;
-}
+} 
 
-.box-band{
-  
+.caixa-band{
+  height: 200px;
+  width: 200px;
+  display: block;
 }
